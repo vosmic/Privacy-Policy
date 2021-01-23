@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 
 Privacy Policy
 Vosmic Games built the Lofi Guy Among Nails app as a Free app. This SERVICE is provided by Vosmic Games at no cost and is intended for use as is.
